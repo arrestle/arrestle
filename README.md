@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I’m currently working on an open food initiative
+
+🌱 I’m currently learning how to publish website on https://sites.google.com/
+
+📫 How to reach me: https://www.linkedin.com/in/andrea-restle-lay/
+
+😄 Pronouns: she/her/dude
+
+Fun fact: My dog loves to catch frisbees! 
+
 <!--
 **arrestle/arrestle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
