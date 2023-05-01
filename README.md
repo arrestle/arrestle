@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on an open food initiative
+🔭 I just graduated from NCSU with a Master's in Liberal Studies.
 
 🌱 I’m currently learning how to publish website on https://sites.google.com/
 
 📫 How to reach me: https://www.linkedin.com/in/andrea-restle-lay/
 
-😄 Pronouns: she/her/dude
+😄 Pronouns: she/her/code-freak
 
 Fun fact: My dog loves to catch frisbees! 
 
