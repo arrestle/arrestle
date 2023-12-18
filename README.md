@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-🔭 I just graduated from NCSU with a Master's in Liberal Studies.
+🔭 I just graduated in May, 2023 from NCSU with a Master's in Liberal Studies.
 
-🌱 I’m currently learning how to publish website on https://sites.google.com/
+🌱 I’m currently learning how to create web assembly sites using Rust.
 
 📫 How to reach me: https://www.linkedin.com/in/andrea-restle-lay/
 
 😄 Pronouns: she/her/code-freak
 
-Fun fact: My dog loves to catch frisbees! 
+⚡ Fun fact: My dog loves to catch frisbees! Apparently that's a thing for pitbull mixes. Also, this one wears his heart on his puppy-sleeves and lives for cuddles. 
 
 <!--
 **arrestle/arrestle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
