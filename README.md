@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I graduated in May, 2023 from NCSU with a Master's in Liberal Studies specializing in Computer Science, Innovation, ans Sustainability
+🔭 I graduated in May, 2023 from NCSU with a Master's in Liberal Studies specializing in Computer Science, Innovation, ans Sustainability.
 
 🌱 I’m currently learning how to monitor complex hardware/software systems using Open Telemetry.
 
