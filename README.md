@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I just graduated in May, 2023 from NCSU with a Master's in Liberal Studies.
+🔭 I graduated in May, 2023 from NCSU with a Master's in Liberal Studies specializing in Computer Science, Innovation, ans Sustainability
 
-🌱 I’m currently learning how to create web assembly sites using Rust.
+🌱 I’m currently learning how to monitor complex hardware/software systems using Open Telemetry.
 
 📫 How to reach me: https://www.linkedin.com/in/andrea-restle-lay/
 
