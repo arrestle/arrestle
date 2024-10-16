@@ -4,8 +4,6 @@
 📧 [andrearestlelay@gmail.com](mailto:andrearestlelay@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andrea-restle-lay/)
 
-- 🔭 Open to new Opportunities, ideally 
-
 📚 I earned a Master’s in Liberal Studies, specializing in Computer Science, Innovation, and Sustainability, from NCSU in May 2023. Previously I graduated with a Bachelors in Computer Science with a minor in biology from UMaine.
 
 💼 In September 2024, I concluded my role as a **Principal Software Engineer** at Dell Technologies and am now pursuing new opportunities. This position included:
