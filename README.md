@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-🔭 I graduated in May, 2023 from NCSU with a Master's in Liberal Studies specializing in Computer Science, Innovation, ans Sustainability. I now work at Dell Technologies as a Principal Software Engineer. 
+🔭 I earned a Master’s in Liberal Studies, specializing in Computer Science, Innovation, and Sustainability, from NCSU in May 2023. In September 2024, I concluded my role as a Principal Software Engineer at Dell Technologies and am now pursuing new opportunities. This position included:
 
-🌱 I’m currently learning how to monitor complex hardware/software systems using Open Telemetry.
+🌱 Learned how to monitor complex hardware/software systems using Open Telemetry. Backend on Kubernetes and SystemD services with Front-end Collectors with custom receivers, processors, and exporters, all written in Golang. Provided prototypes including microservice tracing, systemd receiver
+
+🌱 Building control planes for two different prototypes. One using microservices deployed on Kubernetes and one with a mono-repo with microservices deployed via a cli on a base SLES image via daemons. 
 
 📫 How to reach me: https://www.linkedin.com/in/andrea-restle-lay/
 
-😄 Pronouns: she/her/code-freak
+😄 Pronouns: she/her/ally/code-freak
 
 ⚡ Fun fact: My dog loves to catch frisbees! Apparently that's a thing for pitbull mixes. Also, this one wears his heart on his puppy-sleeves and lives for cuddles. 
 
