@@ -4,9 +4,9 @@
 📧 [andrearestlelay@gmail.com](mailto:andrearestlelay@gmail.com)  📧 [arestlel@redhat.com](mailto:aarestlel@redhat.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andrea-restle-lay/)
 
-💼 In December 2024, I started a new role as a **Principal Software Engineer** at Red Hat! 
+💼 In December 2024, I started a new role as a **Principal Software Engineer** at Red Hat in the Ansible controller team! 
 
-💼 In September 2024, I concluded my role as a **Principal Software Engineer** at Dell Technologies and am now pursuing new opportunities. This position included:
+💼 In September 2024, I concluded my role as a **Principal Software Engineer** at Dell Technologies. This position included:
 
 - 🌱 Learned how to monitor complex hardware/software systems using Open Telemetry. Backend on Kubernetes and SystemD services with Front-end Collectors with custom receivers, processors, and exporters, all written in Golang. Provided prototypes including microservice tracing, systemd receiver
 
@@ -19,7 +19,7 @@
 
 😄 Pronouns: she/her/ally
 
-⚡ Fun fact: My dog loves to catch frisbees! Apparently that's a thing for pitbull mixes. Also, this one wears his heart on his puppy-sleeves and lives for cuddles. 
+⚡ Fun fact: My dog loves to swim, run on trails, and even catch frisbees! Logan is a pitbull mix, but he gets bossed around by the cat, wears his heart on his puppy-sleeves and lives for cuddles.
 
 <!--
 **arrestle/arrestle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
