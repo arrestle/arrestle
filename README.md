@@ -4,9 +4,9 @@
 📧 [andrearestlelay@gmail.com](mailto:andrearestlelay@gmail.com)  📧 [arestlel@redhat.com](mailto:aarestlel@redhat.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andrea-restle-lay/)
 
-💼 In December 2024, I started a new role as a **Principal Software Engineer** at Red Hat in the Ansible controller team! 
+💼 In December 2024, I started a new role as a **Principal Software Engineer** at **Red Hat** in the **Ansible Controller <img src="angrypotato.png" alt="logo" width="30" style="vertical-align: middle;"/> team**!
 
-💼 In September 2024, I concluded my role as a **Principal Software Engineer** at Dell Technologies. This position included:
+💼 In September 2024, I concluded my role as a Principal Software Engineer at Dell Technologies. This position included:
 
 - 🌱 Learned how to monitor complex hardware/software systems using Open Telemetry. Backend on Kubernetes and SystemD services with Front-end Collectors with custom receivers, processors, and exporters, all written in Golang. Provided prototypes including microservice tracing, systemd receiver
 
