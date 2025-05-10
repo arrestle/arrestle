@@ -4,7 +4,7 @@
 📧 [andrearestlelay@gmail.com](mailto:andrearestlelay@gmail.com)  📧 [arestlel@redhat.com](mailto:aarestlel@redhat.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andrea-restle-lay/)
 
-💼 In December 2024, I started a new role as a **Principal Software Engineer** at **Red Hat** in the **Ansible Controller <img src="angrypotato.png" alt="logo" width="30" style="vertical-align: middle;"/> team**!
+ <img src="angrypotato.png" alt="logo" width="30" style="vertical-align: middle;"/>  In December 2024, I started as a **Principal Software Engineer** at **Red Hat**. Onboarded into the **Ansible Controllert** team for first three months. Now permanently (if that's still a thing) in the new **Ansible Inframesh** team integrating with all things Hashicorp in Golang on Linux. Living the dream!
 
 💼 In September 2024, I concluded my role as a Principal Software Engineer at Dell Technologies. This position included:
 
@@ -12,7 +12,7 @@
 
 - 🌱 Building control planes for two different prototypes. One using microservices deployed on Kubernetes and one with a mono-repo with microservices deployed via a cli on a base SLES image via daemons. 
 
-- 🌱 Led a six-person team to become finalists in the 2023 ISG Hackathon with a solar-powered edge computing proposal.
+- 🌱 Led a six-person team to become finalists in the 2023 ISG (Infrastructure Services Group) Hackathon with a solar-powered edge computing proposal.
 
 📚 I earned a Master’s in Liberal Studies, specializing in Computer Science, Innovation, and Sustainability, from NCSU in May 2023. Previously I graduated with a Bachelors in Computer Science with a minor in biology from UMaine.
 
