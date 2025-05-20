@@ -4,6 +4,9 @@
 📧 [andrearestlelay@gmail.com](mailto:andrearestlelay@gmail.com)  📧 [arestlel@redhat.com](mailto:aarestlel@redhat.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andrea-restle-lay/)
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=arrestle&show_icons=true&include_all_commits=true&rank_icon=percentile)](https://github.com/arestlel)
+
+
  <img src="angrypotato.png" alt="logo" width="30" style="vertical-align: middle;"/>  In December 2024, I started as a **Principal Software Engineer** at **Red Hat**. Onboarded into the **Ansible Controllert** team for first three months. Now permanently assigned to the new **Ansible Inframesh** team integrating with all things Hashicorp in Golang on Linux. Living the dream!
 
 💼 In September 2024, I concluded my role as a Principal Software Engineer at Dell Technologies. This position included:
