@@ -1,8 +1,9 @@
 # Andrea Restle-Lay
 
 📍 Raleigh, NC 27608  
-📧 [andrearestlelay@gmail.com](mailto:andrearestlelay@gmail.com)  📧 [arestlel@redhat.com](mailto:aarestlel@redhat.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andrea-restle-lay/)
+📧 [andrearestlelay@gmail.com](mailto:andrearestlelay@gmail.com)  📧 [arestlel@redhat.com](mailto:aarestlel@redhat.com)  🔗 [LinkedIn](https://www.linkedin.com/in/andrea-restle-lay/)
+
+Internal only: 📂 [Red Hat Contributions Portfolio](https://github.com/arrestle/contributions-portfolio) 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=arrestle&show_icons=true&include_all_commits=true&rank_icon=percentile)](https://github.com/arestlel)
 
